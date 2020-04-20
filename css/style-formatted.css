@@ -2718,10 +2718,9 @@ body {
     }
 
     .feedback__list .slick-list {
-        margin-left: 37px;
+        margin-left: 10.05vw;
         padding-left: 0;
         padding-top: 0;
-        margin-left: 10.05vw;
         pointer-events: none;
     }
 
